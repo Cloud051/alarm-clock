@@ -12,3 +12,7 @@ A simple desktop alarm clock application built using Python, Tkinter, and Pygame
 - Multithreaded Background Execution
 - Audio Alert
 - Alarm Control
+
+## Credits
+
+I just started learning using this repo [Original Repo Name](https://github.com/Mrinank-Bhowmick/python-beginner-projects) by [@username](https://github.com/Mrinank-Bhowmick)
