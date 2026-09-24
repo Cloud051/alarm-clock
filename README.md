@@ -15,4 +15,4 @@ A simple desktop alarm clock application built using Python, Tkinter, and Pygame
 
 ## Credits
 
-I just started learning using this repo [Original Repo Name](https://github.com/Mrinank-Bhowmick/python-beginner-projects) by [@username](https://github.com/Mrinank-Bhowmick)
+I just started learning using this repo [python-beginner-projects](https://github.com/Mrinank-Bhowmick/python-beginner-projects) by [@Mrinank-Bhowmick](https://github.com/Mrinank-Bhowmick)
